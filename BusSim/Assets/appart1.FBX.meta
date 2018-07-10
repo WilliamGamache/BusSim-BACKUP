@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 5be730e7d72fd5e4c96b09b9da30ac2e
+timeCreated: 1529899227
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001
+    100004: Box002
+    100006: Box003
+    100008: Box004
+    100010: Box005
+    100012: Box006
+    100014: Box006 1
+    100016: Box007
+    100018: Box008
+    100020: Box009
+    100022: Box010
+    100024: Box011
+    100026: Box012
+    100028: Box013
+    100030: Box014
+    100032: Box015
+    100034: Plane001
+    100036: Plane002
+    100038: Plane003
+    100040: Plane004
+    100042: Plane005
+    100044: Plane006
+    100046: Plane007
+    100048: Plane008
+    100050: Plane008 1
+    100052: Plane009
+    100054: Plane009 1
+    100056: Plane010
+    100058: Plane010 1
+    100060: Plane011
+    100062: Plane011 1
+    100064: Plane012
+    100066: Plane012 1
+    100068: Plane013
+    100070: Plane014
+    100072: Plane015
+    100074: Plane016
+    100076: Plane017
+    100078: Plane018
+    100080: Plane019
+    100082: Plane020
+    100084: Plane021
+    100086: Plane022
+    100088: Plane023
+    100090: Plane024
+    100092: Plane025
+    100094: Plane026
+    100096: Plane027
+    100098: Plane028
+    100100: Plane029
+    100102: Plane030
+    100104: Plane031
+    100106: Plane032
+    100108: Plane033
+    100110: Plane034
+    100112: Plane035
+    100114: Plane036
+    400000: //RootNode
+    400002: Box001
+    400004: Box002
+    400006: Box003
+    400008: Box004
+    400010: Box005
+    400012: Box006
+    400014: Box006 1
+    400016: Box007
+    400018: Box008
+    400020: Box009
+    400022: Box010
+    400024: Box011
+    400026: Box012
+    400028: Box013
+    400030: Box014
+    400032: Box015
+    400034: Plane001
+    400036: Plane002
+    400038: Plane003
+    400040: Plane004
+    400042: Plane005
+    400044: Plane006
+    400046: Plane007
+    400048: Plane008
+    400050: Plane008 1
+    400052: Plane009
+    400054: Plane009 1
+    400056: Plane010
+    400058: Plane010 1
+    400060: Plane011
+    400062: Plane011 1
+    400064: Plane012
+    400066: Plane012 1
+    400068: Plane013
+    400070: Plane014
+    400072: Plane015
+    400074: Plane016
+    400076: Plane017
+    400078: Plane018
+    400080: Plane019
+    400082: Plane020
+    400084: Plane021
+    400086: Plane022
+    400088: Plane023
+    400090: Plane024
+    400092: Plane025
+    400094: Plane026
+    400096: Plane027
+    400098: Plane028
+    400100: Plane029
+    400102: Plane030
+    400104: Plane031
+    400106: Plane032
+    400108: Plane033
+    400110: Plane034
+    400112: Plane035
+    400114: Plane036
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box006 1
+    2300014: Box007
+    2300016: Box008
+    2300018: Box009
+    2300020: Box010
+    2300022: Box011
+    2300024: Box012
+    2300026: Box013
+    2300028: Box014
+    2300030: Box015
+    2300032: Plane001
+    2300034: Plane002
+    2300036: Plane003
+    2300038: Plane004
+    2300040: Plane005
+    2300042: Plane006
+    2300044: Plane007
+    2300046: Plane008
+    2300048: Plane008 1
+    2300050: Plane009
+    2300052: Plane009 1
+    2300054: Plane010
+    2300056: Plane010 1
+    2300058: Plane011
+    2300060: Plane011 1
+    2300062: Plane012
+    2300064: Plane012 1
+    2300066: Plane013
+    2300068: Plane014
+    2300070: Plane015
+    2300072: Plane016
+    2300074: Plane017
+    2300076: Plane018
+    2300078: Plane019
+    2300080: Plane020
+    2300082: Plane021
+    2300084: Plane022
+    2300086: Plane023
+    2300088: Plane024
+    2300090: Plane025
+    2300092: Plane026
+    2300094: Plane027
+    2300096: Plane028
+    2300098: Plane029
+    2300100: Plane030
+    2300102: Plane031
+    2300104: Plane032
+    2300106: Plane033
+    2300108: Plane034
+    2300110: Plane035
+    2300112: Plane036
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box006 1
+    3300014: Box007
+    3300016: Box008
+    3300018: Box009
+    3300020: Box010
+    3300022: Box011
+    3300024: Box012
+    3300026: Box013
+    3300028: Box014
+    3300030: Box015
+    3300032: Plane001
+    3300034: Plane002
+    3300036: Plane003
+    3300038: Plane004
+    3300040: Plane005
+    3300042: Plane006
+    3300044: Plane007
+    3300046: Plane008
+    3300048: Plane008 1
+    3300050: Plane009
+    3300052: Plane009 1
+    3300054: Plane010
+    3300056: Plane010 1
+    3300058: Plane011
+    3300060: Plane011 1
+    3300062: Plane012
+    3300064: Plane012 1
+    3300066: Plane013
+    3300068: Plane014
+    3300070: Plane015
+    3300072: Plane016
+    3300074: Plane017
+    3300076: Plane018
+    3300078: Plane019
+    3300080: Plane020
+    3300082: Plane021
+    3300084: Plane022
+    3300086: Plane023
+    3300088: Plane024
+    3300090: Plane025
+    3300092: Plane026
+    3300094: Plane027
+    3300096: Plane028
+    3300098: Plane029
+    3300100: Plane030
+    3300102: Plane031
+    3300104: Plane032
+    3300106: Plane033
+    3300108: Plane034
+    3300110: Plane035
+    3300112: Plane036
+    4300000: Box001
+    4300002: Box002
+    4300004: Plane001
+    4300006: Plane002
+    4300008: Plane003
+    4300010: Plane004
+    4300012: Box003
+    4300014: Box004
+    4300016: Plane005
+    4300018: Plane006
+    4300020: Plane007
+    4300022: Plane008
+    4300024: Box005
+    4300026: Plane009
+    4300028: Plane010
+    4300030: Plane011
+    4300032: Box006
+    4300034: Plane012
+    4300036: Plane008
+    4300038: Plane009
+    4300040: Box006
+    4300042: Plane010
+    4300044: Plane011
+    4300046: Box007
+    4300048: Plane012
+    4300050: Plane013
+    4300052: Plane014
+    4300054: Plane015
+    4300056: Plane016
+    4300058: Box008
+    4300060: Plane017
+    4300062: Plane018
+    4300064: Box009
+    4300066: Plane019
+    4300068: Plane020
+    4300070: Box010
+    4300072: Plane021
+    4300074: Plane022
+    4300076: Plane023
+    4300078: Plane024
+    4300080: Plane025
+    4300082: Box011
+    4300084: Plane026
+    4300086: Plane027
+    4300088: Box012
+    4300090: Plane028
+    4300092: Plane029
+    4300094: Box013
+    4300096: Plane030
+    4300098: Plane031
+    4300100: Plane032
+    4300102: Plane033
+    4300104: Plane034
+    4300106: Box014
+    4300108: Box015
+    4300110: Plane035
+    4300112: Plane036
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
